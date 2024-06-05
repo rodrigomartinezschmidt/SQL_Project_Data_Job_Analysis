@@ -51,6 +51,7 @@ LIMIT 10;
 ```
 
 ![Top Paying Roles](./assets/1_top_paying_jobs.png)
+
 *Bar graph visualizing the salary for the top 10 salaries for data analysts;  Google Gemini generated this graph from my SQL query results*
 
 ### 2.Skills That Unlock Top Salaries
@@ -85,6 +86,7 @@ ORDER BY
     salary_year_avg DESC;
 ```
 ![Top Paying Roles For Skill](./assets/2_top_paying_job_skills.png)
+
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; Google Gemini generated this graph from my SQL query results*
 
 ### 3.In-Demand Skills Across the Board
