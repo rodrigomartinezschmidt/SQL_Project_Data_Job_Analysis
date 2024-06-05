@@ -4,6 +4,7 @@
    "previewLimit": 50,
    "server": "localhost",
    "port": 5432,
+   "askForPassword": true,
    "driver": "PostgreSQL",
    "name": "sql_course",
    "database": "sql_course",
